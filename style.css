@@ -1,0 +1,20 @@
+/* Right Header Navbar */
+
+#navbar-sticky {
+    display: flex;
+    justify-content: space-between;
+}
+
+#nav-left-side {
+    display: flex;
+}
+
+#nav-list {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    padding: 8px 30px 0 30px;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.87);
+    margin: 0;
+}

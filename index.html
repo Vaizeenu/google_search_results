@@ -1,27 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <link rel="stylesheet" href="style.css" />
-    </head>
+
+<head>
+    <link rel="stylesheet" href="style.css" />
+</head>
 
 <body>
     <!-- This is your navbar -->
-    <header id="navbar-non-sticky">
-        <div id="g-logo-container">
-            <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" id="g-logo" style="height: 25px;">
+    <header id="navbar-sticky">
+        <div id="nav-left-side">
+            <div id="g-logo-container">
+                <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+                    id="g-logo" style="height: 25px;">
+            </div>
+            <div id="sfld">
+                <input id="searchbox" type="text" />
+                <img class="discard icon" src="images/noun_X_2500111.svg" style="height: 30px; width: auto;" />
+                <img class="keyboard icon" src="images/2972499.svg" style="height: 30px; width: 30px;" />
+                <img class="search icon" src="images/622669.svg" style="height: 30px; width: 30px;" />
+            </div>
         </div>
-        <div id="sfld">
-            <input id="searchbox" type="text" />
-            <img class="discard icon" src="images/noun_X_2500111.svg" style="height: 40px; width: auto;"/>
-            <img class="keyboard icon" src="images/2972499.svg" style="height: 30px; width: 30px;"/>
-            <img class="search icon" src="images/622669.svg" style="height: 30px; width: 30px;"/>
-        </div>
-        <div>
-            <ul id="navbar-fl-right">
-                <li id="more-google-apps-button"> <img src="images/noun_dot matrix_145292.svg" style="height: 25px; width:auto;"/> </li>
+        <div id="nav-right-side">
+            <ul id="nav-list">
+                <li id="more-google-apps-button"> <img src="images/noun_dot matrix_145292.svg"
+                        style="height: 25px; width:auto;" /> </li>
                 <li id="login-btn"> <a>Είσοδος</a> </li>
             </ul>
-        </div>            
+        </div>
     </header>
 
     <!-- This is your main google stuff: logo, form, search/feeling lucky-->
@@ -51,4 +56,5 @@
         </ul>
     </footer>
 </body>
+
 </html>
