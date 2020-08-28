@@ -32,4 +32,11 @@ body {
 
 .result-arc { 
     max-width: 672px;
+    margin-bottom: 28px;
+}
+
+.main-area {
+    display: flex;
+    flex-direction: column;
+    width: 652px;
 }
