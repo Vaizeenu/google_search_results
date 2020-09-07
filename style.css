@@ -40,3 +40,7 @@ body {
     flex-direction: column;
     width: 652px;
 }
+
+.video-search-results {
+    display: flex;
+}
