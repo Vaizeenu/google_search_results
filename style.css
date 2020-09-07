@@ -60,3 +60,22 @@ body {
     margin-left: -21px;
     background-color: white;
 }
+
+#ouqcontainer { 
+    display: flex;
+    flex-direction: column;
+}
+
+.brdr {
+    border: 1px solid #dfe1e5;
+    border-radius: 8px;
+}
+
+.other-user-questions {
+    display: flex;
+    flex-direction: column;
+}
+
+.inner-top-border-questions {
+    border-top: 1px solid #e5e5e5;
+}
