@@ -44,3 +44,19 @@ body {
 .video-search-results {
     display: flex;
 }
+
+#last-vid-search-rslt {
+    width: 72px;
+    align-items: center;
+    display: flex;
+}
+
+#last-vid-search-rslt-button { 
+    height: 36px;
+    width: 36px;
+    border-radius: 50%;
+    border: 1px solid #dfe1e5;
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.04),0 4px 8px 0 rgba(0,0,0,0.20);
+    margin-left: -21px;
+    background-color: white;
+}
