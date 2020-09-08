@@ -101,3 +101,14 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+
+#report-button { 
+    text-decoration: none;
+    color: #70757a;
+    font-size: small;
+    font-family: arial, sans-serif;
+}
+
+#images-more-on-this {
+    text-decoration: none;
+}
