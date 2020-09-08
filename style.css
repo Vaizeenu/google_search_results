@@ -78,3 +78,20 @@ body {
 .inner-top-border-questions {
     border-top: 1px solid #e5e5e5;
 }
+
+#help-bubbles { 
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-bubble {
+    border: 1px solid #dadce0;
+    border-radius: 18px;
+    font: 400 12px arial,sans-serif;
+    height: 36px;
+    min-width: 46px;
+    padding: 0 11px;
+    box-sizing: border-box;
+    line-height: 34px;
+    text-align: center;
+}
