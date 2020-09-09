@@ -139,3 +139,43 @@ body {
 .rlvnt-cont-columns {
     flex: 1;
 }
+
+footer {
+    background-color:#f2f2f2;
+    position: relative;
+    margin: 0 -20px;
+}
+
+footer p {
+    line-height: 40px;
+    font-size: 15px;
+    color: rgba(0,0,0,.54);
+    padding-left: 27px;
+    border-top: 1px solid #e4e4e4;
+    border-bottom: 1px solid #e4e4e4;
+    margin: 0 0 0 0px;
+}
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 0 0 27px;
+    float: left;
+    line-height: 40px;
+}
+
+footer ul li {
+    float: left;
+    color: #5f6368;
+    font-size: 14px;
+    padding-right: 25px;
+}
+
+.fr {
+    float: right;
+    padding-right: 15px;
+}
+
+.ftr-flex-space {
+    justify-content: space-between;
+}
