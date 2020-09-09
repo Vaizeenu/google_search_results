@@ -112,3 +112,30 @@ body {
 #images-more-on-this {
     text-decoration: none;
 }
+
+.typical-flex-horizontal {
+    display: flex;
+}
+
+.typical-flex-column {
+    display: flex;
+    flex-flow: column;
+}
+
+.relevant-search-bubble {
+    background-color: #f8f9fa;
+    border-radius: 100px;
+    min-height: 48px;
+    align-items: center;
+    text-decoration: none;
+    margin: 4px 8px;
+    color: #202124;
+}
+
+#rlvnt-cont {
+    justify-content: space-around;
+}
+
+.rlvnt-cont-columns {
+    flex: 1;
+}
