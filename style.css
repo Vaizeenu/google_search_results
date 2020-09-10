@@ -210,3 +210,58 @@ footer ul li a {
     text-decoration: none;
     color: rgba(0,0,0,.54);
 }
+
+#more-search-results {
+    justify-content: center;
+    margin: 20px 0;
+    align-items: baseline;
+    font-size: 14px;
+}
+
+.o-button-center {
+    text-decoration: none;
+    align-items: center;
+    color: #4285f4;
+}
+
+#first-o-button {
+    color: #222;
+}
+
+.o-button-center-cont {
+    padding-bottom: 5px;
+}
+
+.o-image {
+    height: 20px;
+}
+
+#g-image {
+    width: 28px;
+}
+
+#gle-container-link {
+    text-decoration: none;
+    justify-content: space-around;
+    height: 54px;
+    color: #4285f4;
+}
+
+#gle-container {
+    align-self: flex-start;
+    padding-top: 2px;
+}
+
+#gle-container-last-part {
+    justify-content: space-between
+}
+
+#gle-container-last-part-arrow-cntnr {
+    padding-top: 8px;
+    padding-left: 12px;
+}
+
+#gle-container-last-part-arrow-image{
+    height: 12px;
+}
+
