@@ -2,9 +2,11 @@
 a recreation of the google search results page, for educational purposes
 
 ## Things I won't / can't do:
-    - Can't add the "fade out" transparency on the "images" section. Tried some combination of ::before, but it doesn't work, at least not without spending way too much time on this, so I moved on and hopefully will be able to learn that trick at some point. PS using only CSS. For future reference, possible solution here: https://stackoverflow.com/questions/12779776/linear-fade-out-div-content-and-border-solid-at-top-to-transparent-at-bottom.
-    - Didn't change the color in the results part after the right arrow thingy. It is a lighter grey. I was kinda bored changing in, even though I know how to do it. At this point in recreating the webpage, i'd rather finish the webpage than lose time on this minor detail. example: I won't change the www.website.com -> ***This Part of the link***
-    - Haven't changed the color and won't make the minor adjustment in the position of the downward arrow in roughly the same spot as the above part. 
+    - Can't add the "fade out" transparency on the "images" section. Tried some combination of ::before, but it doesn't work, at least not without spending way too much time on this, so I moved on and hopefully will be able to learn that trick at some point. P.S. using only CSS. For future reference, possible solution here: https://stackoverflow.com/questions/12779776/linear-fade-out-div-content-and-border-solid-at-top-to-transparent-at-bottom.
+    - Didn't change the color in the results part after the right arrow thingy. It is a lighter grey. At this point in recreating the webpage, i'd rather finish the webpage than lose time on this minor detail. example: I won't change the 
+    "www.website.com ->  ***This Part of the link***"
+    - Haven't changed the color and won't make the minor adjustment in the position of the downward arrow in  roughly the same spot as the above part. 
+    - Won't make the bubble in "images for build this webpage" into a link. I know how to do it and at this point it's just a time sink, since I'd rather finish the project sooner and move on to the next webpage project.
 
 - dot matrix by Creative Stall from the Noun Project
 - X by Richard Kunák from the Noun Project
