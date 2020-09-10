@@ -143,6 +143,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 6px;
 }
 
 #report-button { 
@@ -154,7 +155,17 @@ body {
 
 #images-more-on-this {
     text-decoration: none;
+    color: #1a0dab;
 }
+
+#images-more-on-this-arrow {
+    width: 17px;
+}
+
+#img-cntnr-arr-margin {
+    margin-right: 8px;;
+}
+
 
 .typical-flex-horizontal {
     display: flex;
