@@ -72,10 +72,16 @@ body {
     margin-left: 180px;
 }
 
+.vsr-whole {
+    margin-bottom: 40px;
+}
+
 .video-search-results {
-    display: flex;
     justify-content: space-between;
 }
+
+/* 
+ This is the CSS for the "more videos" button, for now not usable
 
 #last-vid-search-rslt {
     float: right;
@@ -87,9 +93,9 @@ body {
     border-radius: 50%;
     border: 1px solid #dfe1e5;
     box-shadow: 0 0 0 1px rgba(0,0,0,0.04),0 4px 8px 0 rgba(0,0,0,0.20);
-    /*margin-left: -21px;*/
+    margin-left: -21px;
     background-color: white;
-}
+}*/
 
 .ouqcontainer { 
     margin-bottom: 40px;
