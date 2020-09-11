@@ -111,14 +111,50 @@ body {
     border-radius: 8px;
 }
 
+#other-user-questions-cntnr {
+    margin-bottom: 28px;
+}
+
+#hdr-usr-qstns {
+    line-height: 1.3;
+    padding: 9px 16px;
+    font-size: 20px;
+    margin: 0;
+}
+
 .other-user-questions {
     display: flex;
     flex-direction: column;
+    
 }
 
 .inner-top-border-questions {
     border-top: 1px solid #e5e5e5;
+    font-size: 16px;
+    padding: 9px 16px;
+    line-height: 1.58;
 }
+
+.rotated-spinach {
+    float: right;
+    padding: 6px 10px 0 0;
+}
+
+.rotated-right-arrow {
+    display: block; 
+    height: 12px;
+    transform: rotate(90deg);
+}
+
+#otusrqstns-last {
+    float: right;
+    color: #70757a;
+    font-size: 12px;
+    line-height: 1.34;
+    font-style: italic;
+    padding: 4px 22px 0;
+}
+
 
 #help-bubbles { 
     display: flex;
